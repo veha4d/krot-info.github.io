@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jomsocial>
+    <component>com_mijopolls</component>
+    <rules>
+        <rule>
+            <name>MijoPolls - Vote on a poll</name>
+            <description>Give points when user votes on polls.</description>
+            <action_string>com_mijopolls.vote</action_string>
+            <publish>true</publish>
+            <points>0</points>
+            <access_level>1</access_level>
+        </rule>
+    </rules>
+</jomsocial>

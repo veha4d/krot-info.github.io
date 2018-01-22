@@ -1,0 +1,12 @@
+/** toolbar icons **/
+div.header.icon-48-mijopolls{
+	background-image: url(../images/toolbar.png);
+	padding-left:218px!important;
+	line-height:50px;
+}
+
+.icon-48-mijopolls{
+	background-image: url(../images/toolbar.png);
+	padding-left:218px!important;
+	line-height:50px;
+}
